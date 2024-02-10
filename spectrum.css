@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: black;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .box {
+    width: 80px;
+    height: 100px;
+    margin: 5px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .top-row {
+    display: flex;
+  }
+  
+  .middle-row {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .bottom-row {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .box-1 { background-color: gray; }
+  .box-2 { background-color: mediumaquamarine; }
+  .box-3 { background-color: forestgreen; }
+  .box-4 { background-color: seagreen; }
+  .box-5 { background-color: beige; }
+  .box-6 { background-color: coral; }
+  .box-7 { background-color: crimson; }
+  .box-8 { background-color: mediumorchid; }
+  .box-9 { background-color: mediumpurple; }
+  .box-10 { background-color: mediumslateblue; }
+  .box-11 { background-color: rebeccapurple; }
+  .box-12 { background-color: dimgray; }
+  .box-13 { background-color: #64D7D1 }
+  .box-14 { background-color: #bdfa9c; }
+  .box-15 { background-color: #f7a368; }
+  .box-16 { background-color: #a41b5d; }
+  .box-17 { background-color: #391e2c; }
+  .box-18 { background-color: #42e0c1; }
+  .box-19 { background-color: #5ba789; }
+  .box-20 { background-color: #4d3059; }
+  .box-21 { background-color: #473d4b; }
+  
+  h1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }

@@ -1,0 +1,20 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Tangerine:wght@700&display=swap');
+
+
+div{
+    background-color: black;
+    color:whitesmoke;
+    width: 50%;
+    border-radius: 60px;
+    padding: 60px;
+    border: red 4px dotted;
+}
+
+p{
+    font-size: x-large;
+    font-family:'Dancing Script', cursive;
+    font-family: 'Tangerine', cursive;
+    font-style: italic;
+}

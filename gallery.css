@@ -1,0 +1,20 @@
+div{
+    background-color: yellow;
+    color: black;
+    border: 4px black double;
+    height: 350px;
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 220px;
+    border-radius: 20px;
+}
+
+P{
+    color: rgb(240, 128, 128);
+    font-family: 'Tangerine',cursive;
+}

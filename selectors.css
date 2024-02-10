@@ -1,0 +1,32 @@
+h1{
+    color: rgb(112, 216, 148);
+}
+
+#a1{
+    color: rgb(163, 68, 81);
+}
+
+.c1{
+    color: gold;
+    text-align: center;
+}
+
+.c4{
+    background-color: turquoise;
+}
+
+body{
+    background-color: dodgerblue;
+}
+
+div{background-color: rgb(139, 0, 120);}
+
+.d1{background-color:burlywood;}
+
+.c3{
+    text-align: center;
+}
+
+.c2{
+    text-align: end;
+}

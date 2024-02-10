@@ -1,0 +1,41 @@
+div{
+    color: blue;
+    background-color: brown;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    width: 30%;
+    height: 200px;
+    margin-top: 20%;
+    transition: width 5s, height 5s, transform 3s;
+    
+}
+
+div:hover{
+    width: 40%;
+    height: 300px;
+    transform :rotate(180deg);
+    opacity: o.3;
+}
+
+
+.div1{
+
+
+    color: blue;
+    background-color: brown;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    width: 10%;
+    height: 100px;
+    margin-top: -331px;
+   
+}
+
+.div1:hover{
+
+    width: 40%;
+    height: 300px;
+    opacity: 0.3;
+
+
+}

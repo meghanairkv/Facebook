@@ -1,0 +1,28 @@
+h3{
+    color: black;
+}
+
+body{
+    background-color:white;
+}
+
+#b2{
+    color:black;
+    background-color:darkgrey;
+}
+#a1{
+    color: black;
+    background-color: rgb(255, 241, 240);
+}
+
+.c1{
+    color: rgb(127, 16, 33);
+}
+
+div{background-color:gold;
+    width: 350px;
+    height: 200px;
+
+}
+   
+

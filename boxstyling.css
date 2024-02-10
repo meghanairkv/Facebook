@@ -1,0 +1,25 @@
+div{
+    height: 350px;
+    width: 450px;
+    background-color: chartreuse;
+    /*border:black 4px dotted*/
+    border: palevioletred 4px double;
+    border-radius: 0px 30px;
+    padding: 45px;
+    /*padding-left: 25px;
+    padding-top: 35px;*/
+}
+div:hover{
+
+    background-color:goldenrod;
+}
+
+#c1{
+    margin-left: 300px;
+    margin-top: 250px;
+}
+
+#c2{
+    margin-left: 900px;
+    margin-top: -450px;
+}
